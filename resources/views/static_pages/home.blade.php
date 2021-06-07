@@ -6,5 +6,8 @@
       都是让我们的脚步慢下来的理由。
     </p>
     <p>志合者，不以山海为远。</p>
+    <p>
+      <a class="btn btn-lg btn-success" href="#" role="button">现在注册</a>
+    </p>
   </div>
 @stop
