@@ -12,7 +12,7 @@
     <p>糟糕，四周都是丘丘人的声音，我应该</p>
     <p>【日志内容在这里结束了。】</p>
     <p>
-      <a class="btn btn-lg btn-success" href="#" role="button">现在注册</a>
+      <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">现在注册</a>
     </p>
   </div>
 @stop
